@@ -1,0 +1,27 @@
+_repo: Stray-Pebbles-from-the-Shores-of-Thought_44973
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44973-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gould, Elizabeth Porter
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '43013'
+    url: http://www.gutenberg.org/2009/agents/43013
+description: ''
+gutenberg_issued: '2014-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44973'
+  lccn: '36035879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Whitman, Walt, 1819-1892'
+title: Stray Pebbles from the Shores of Thought
+url: http://www.gutenberg.org/ebooks/44973
