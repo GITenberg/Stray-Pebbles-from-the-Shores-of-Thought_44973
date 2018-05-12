@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43013'
     url: http://www.gutenberg.org/2009/agents/43013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44973#Stray-Pebbles-from-the-Shores-of-Thought
 gutenberg_issued: '2014-02-21'
 gutenberg_type: Text
 identifiers:
